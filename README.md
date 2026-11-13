@@ -1,4 +1,4 @@
-[![License: CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 # Cryptography Decoded
 Gerald Teschl <Gerald.Teschl@univie.ac.at>
