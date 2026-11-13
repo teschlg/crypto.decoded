@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/pypi/l/kryptools)](https://github.com/teschlg/crypto.decoded/blob/main/LICENSE)
+[![License: CC BY 4.0][cc-by-shield]][cc-by]
 
 # Cryptography Decoded
 Gerald Teschl <Gerald.Teschl@univie.ac.at>
